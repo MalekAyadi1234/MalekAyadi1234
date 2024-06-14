@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Malek Ayadi</h1>
 <h3 align="center">A passionate mobile applications developer from Tunisia</h3>
-<img align="right" alt="coding" width=400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif" />
+<img align="right" alt="coding" width=400" src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malekayadi1234&label=Profile%20views&color=0e75b6&style=flat" alt="malekayadi1234" /> </p>
 
 - 🌱 I’m currently learning **React Native**
